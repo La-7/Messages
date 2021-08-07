@@ -1,0 +1,17 @@
+E:\VS\MessagesCRUD\MessagesCRUD.Persistence\bin\Debug\net5.0\MessagesCRUD.Persistence.deps.json
+E:\VS\MessagesCRUD\MessagesCRUD.Persistence\bin\Debug\net5.0\MessagesCRUD.Persistence.dll
+E:\VS\MessagesCRUD\MessagesCRUD.Persistence\bin\Debug\net5.0\ref\MessagesCRUD.Persistence.dll
+E:\VS\MessagesCRUD\MessagesCRUD.Persistence\bin\Debug\net5.0\MessagesCRUD.Persistence.pdb
+E:\VS\MessagesCRUD\MessagesCRUD.Persistence\bin\Debug\net5.0\MessagesCRUD.Application.dll
+E:\VS\MessagesCRUD\MessagesCRUD.Persistence\bin\Debug\net5.0\MessagesCRUD.Domain.dll
+E:\VS\MessagesCRUD\MessagesCRUD.Persistence\bin\Debug\net5.0\MessagesCRUD.Application.pdb
+E:\VS\MessagesCRUD\MessagesCRUD.Persistence\bin\Debug\net5.0\MessagesCRUD.Domain.pdb
+E:\VS\MessagesCRUD\MessagesCRUD.Persistence\obj\Debug\net5.0\MessagesCRUD.Persistence.csproj.AssemblyReference.cache
+E:\VS\MessagesCRUD\MessagesCRUD.Persistence\obj\Debug\net5.0\MessagesCRUD.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+E:\VS\MessagesCRUD\MessagesCRUD.Persistence\obj\Debug\net5.0\MessagesCRUD.Persistence.AssemblyInfoInputs.cache
+E:\VS\MessagesCRUD\MessagesCRUD.Persistence\obj\Debug\net5.0\MessagesCRUD.Persistence.AssemblyInfo.cs
+E:\VS\MessagesCRUD\MessagesCRUD.Persistence\obj\Debug\net5.0\MessagesCRUD.Persistence.csproj.CoreCompileInputs.cache
+E:\VS\MessagesCRUD\MessagesCRUD.Persistence\obj\Debug\net5.0\MessagesCRUD.Persistence.csproj.CopyComplete
+E:\VS\MessagesCRUD\MessagesCRUD.Persistence\obj\Debug\net5.0\MessagesCRUD.Persistence.dll
+E:\VS\MessagesCRUD\MessagesCRUD.Persistence\obj\Debug\net5.0\ref\MessagesCRUD.Persistence.dll
+E:\VS\MessagesCRUD\MessagesCRUD.Persistence\obj\Debug\net5.0\MessagesCRUD.Persistence.pdb

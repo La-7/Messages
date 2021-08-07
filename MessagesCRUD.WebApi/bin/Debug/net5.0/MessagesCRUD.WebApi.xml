@@ -1,0 +1,65 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>MessagesCRUD.WebApi</name>
+    </assembly>
+    <members>
+        <member name="M:MessagesCRUD.WebApi.Controllers.MessageController.GetAll">
+            <summary>
+            Gets the list of messages
+            </summary>
+            <remarks>
+            Sample request: 
+            GET: /message
+            </remarks>
+            <returns>Returns MessageListVm</returns>
+            <responce code="200">Success</responce>
+            <responce code="401">If the user is unauthorized</responce>
+        </member>
+        <member name="M:MessagesCRUD.WebApi.Controllers.MessageController.Create(MessagesCRUD.WebApi.Models.Command.CreateMessageDto)">
+            <summary>
+            Creates the message
+            </summary>
+            <remarks>
+            Sample request: 
+            POST /message
+            {
+                Text: "message text"
+            }
+            </remarks>
+            <param name="createMessageDto">CreateMessageDto object</param>
+            <returns>Returns id (guid)</returns>
+            <responce code="201">Success</responce>
+            <responce code="401">If the user is unauthorized</responce>
+        </member>
+        <member name="M:MessagesCRUD.WebApi.Controllers.MessageController.Update(MessagesCRUD.WebApi.Models.Command.UpdateMessageDto)">
+            <summary>
+            Updates the message
+            </summary>
+            <remarks>
+            Sample request: 
+            PUT /message
+            {
+                text: "update message text"
+            }
+            </remarks>
+            <param name="updateMessageDto">UpdateMessageDto object</param>
+            <returns>Returns NoContent</returns>
+            <responce code="204">Success</responce>
+            <responce code="401">If the user is unauthorized</responce>
+        </member>
+        <member name="M:MessagesCRUD.WebApi.Controllers.MessageController.Delete(System.Guid)">
+            <summary>
+            Deletes the message by id
+            </summary>
+            <remarks>
+            Sample request:
+            DELETE /message/2B40C5C1-C3C6-40B5-A6CB-8924FCE29298
+            </remarks>
+            <param name="id">Id of the message (guid)</param>
+            <returns>Returns NoContent</returns>
+            <responce code="204">Success</responce>
+            <responce code="401">If the user is unauthorized</responce>
+        </member>
+    </members>
+</doc>

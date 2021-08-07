@@ -1,0 +1,12 @@
+E:\VS\MessagesCRUD\MessagesCRUD.Domain\bin\Debug\net5.0\MessagesCRUD.Domain.deps.json
+E:\VS\MessagesCRUD\MessagesCRUD.Domain\bin\Debug\net5.0\MessagesCRUD.Domain.dll
+E:\VS\MessagesCRUD\MessagesCRUD.Domain\bin\Debug\net5.0\ref\MessagesCRUD.Domain.dll
+E:\VS\MessagesCRUD\MessagesCRUD.Domain\bin\Debug\net5.0\MessagesCRUD.Domain.pdb
+E:\VS\MessagesCRUD\MessagesCRUD.Domain\obj\Debug\net5.0\MessagesCRUD.Domain.csproj.AssemblyReference.cache
+E:\VS\MessagesCRUD\MessagesCRUD.Domain\obj\Debug\net5.0\MessagesCRUD.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\VS\MessagesCRUD\MessagesCRUD.Domain\obj\Debug\net5.0\MessagesCRUD.Domain.AssemblyInfoInputs.cache
+E:\VS\MessagesCRUD\MessagesCRUD.Domain\obj\Debug\net5.0\MessagesCRUD.Domain.AssemblyInfo.cs
+E:\VS\MessagesCRUD\MessagesCRUD.Domain\obj\Debug\net5.0\MessagesCRUD.Domain.csproj.CoreCompileInputs.cache
+E:\VS\MessagesCRUD\MessagesCRUD.Domain\obj\Debug\net5.0\MessagesCRUD.Domain.dll
+E:\VS\MessagesCRUD\MessagesCRUD.Domain\obj\Debug\net5.0\ref\MessagesCRUD.Domain.dll
+E:\VS\MessagesCRUD\MessagesCRUD.Domain\obj\Debug\net5.0\MessagesCRUD.Domain.pdb

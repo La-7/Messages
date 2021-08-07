@@ -1,0 +1,15 @@
+E:\VS\MessagesCRUD\MessagesCRUD.Application\bin\Debug\net5.0\MessagesCRUD.Application.deps.json
+E:\VS\MessagesCRUD\MessagesCRUD.Application\bin\Debug\net5.0\MessagesCRUD.Application.dll
+E:\VS\MessagesCRUD\MessagesCRUD.Application\bin\Debug\net5.0\ref\MessagesCRUD.Application.dll
+E:\VS\MessagesCRUD\MessagesCRUD.Application\bin\Debug\net5.0\MessagesCRUD.Application.pdb
+E:\VS\MessagesCRUD\MessagesCRUD.Application\bin\Debug\net5.0\MessagesCRUD.Domain.dll
+E:\VS\MessagesCRUD\MessagesCRUD.Application\bin\Debug\net5.0\MessagesCRUD.Domain.pdb
+E:\VS\MessagesCRUD\MessagesCRUD.Application\obj\Debug\net5.0\MessagesCRUD.Application.csproj.AssemblyReference.cache
+E:\VS\MessagesCRUD\MessagesCRUD.Application\obj\Debug\net5.0\MessagesCRUD.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\VS\MessagesCRUD\MessagesCRUD.Application\obj\Debug\net5.0\MessagesCRUD.Application.AssemblyInfoInputs.cache
+E:\VS\MessagesCRUD\MessagesCRUD.Application\obj\Debug\net5.0\MessagesCRUD.Application.AssemblyInfo.cs
+E:\VS\MessagesCRUD\MessagesCRUD.Application\obj\Debug\net5.0\MessagesCRUD.Application.csproj.CoreCompileInputs.cache
+E:\VS\MessagesCRUD\MessagesCRUD.Application\obj\Debug\net5.0\MessagesCRUD.Application.csproj.CopyComplete
+E:\VS\MessagesCRUD\MessagesCRUD.Application\obj\Debug\net5.0\MessagesCRUD.Application.dll
+E:\VS\MessagesCRUD\MessagesCRUD.Application\obj\Debug\net5.0\ref\MessagesCRUD.Application.dll
+E:\VS\MessagesCRUD\MessagesCRUD.Application\obj\Debug\net5.0\MessagesCRUD.Application.pdb
