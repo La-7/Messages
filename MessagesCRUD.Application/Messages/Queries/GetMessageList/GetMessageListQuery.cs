@@ -5,6 +5,6 @@ namespace MessagesCRUD.Application.Messages.Queries.GetMessageList
 {
     public class GetMessageListQuery : IRequest<MessageListVm>
     {
-        public Guid UserId { get; set; }
+        public string UserId { get; set; }
     }
 }

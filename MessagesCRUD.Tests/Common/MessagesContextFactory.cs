@@ -7,8 +7,8 @@ namespace MessagesCRUD.Tests.Common
 {
     public static class MessagesContextFactory
     {
-        public static Guid UserAId = Guid.NewGuid();
-        public static Guid USerBId = Guid.NewGuid();
+        public static string UserAId = Guid.NewGuid().ToString();
+        public static string USerBId = Guid.NewGuid().ToString();
 
         public static Guid MessageIdForDelete = Guid.NewGuid();
         public static Guid MessageIdForUpdate = Guid.NewGuid();

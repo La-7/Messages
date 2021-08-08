@@ -16,7 +16,7 @@ namespace MessagesCRUD.WebApi.Controllers
 {
     [ApiVersionNeutral]
     [ApiController]
-    [Produces("application/json; charset=utf-8")]
+    [Produces("application/json")]
     [Route("api/{version:apiVersion}/[controller]")]
     public class AuthController : ControllerBase
     {
@@ -81,6 +81,7 @@ namespace MessagesCRUD.WebApi.Controllers
 
             AppUser user = new AppUser
             {
+                Id = Guid.NewGuid().ToString(),
                 UserName = viewModel.Username,
                 SecurityStamp = Guid.NewGuid().ToString(),
             };
@@ -125,6 +126,7 @@ namespace MessagesCRUD.WebApi.Controllers
 
             var user = new AppUser
             {
+                Id = Guid.NewGuid().ToString(),
                 UserName = viewModel.Username,
                 SecurityStamp = Guid.NewGuid().ToString()
             };

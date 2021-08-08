@@ -16,6 +16,19 @@
             <responce code="200">Success</responce>
             <responce code="401">If the user is unauthorized</responce>
         </member>
+        <member name="M:MessagesCRUD.WebApi.Controllers.MessageController.GetAllOfUser(System.String)">
+            <summary>
+            Gets the message list of the user
+            </summary>
+            <remarks>
+            Sample request: 
+            GET: /message/b3a296a9-f0de-417e-89d6-a23c1b4803fa
+            </remarks>
+            <param name="id">Id of the user</param>
+            <returns>Returns MessageListVm</returns>
+            <responce code="200">Success</responce>
+            <responce code="401">If the user is unauthorized</responce>
+        </member>
         <member name="M:MessagesCRUD.WebApi.Controllers.MessageController.Create(MessagesCRUD.WebApi.Models.Command.CreateMessageDto)">
             <summary>
             Creates the message
@@ -57,6 +70,20 @@
             DELETE /message/2B40C5C1-C3C6-40B5-A6CB-8924FCE29298
             </remarks>
             <param name="id">Id of the message (guid)</param>
+            <returns>Returns NoContent</returns>
+            <responce code="204">Success</responce>
+            <responce code="401">If the user is unauthorized</responce>
+        </member>
+        <member name="M:MessagesCRUD.WebApi.Controllers.MessageController.Delete(System.String,System.Guid)">
+            <summary>
+            Deletes the message of some user by id
+            </summary>
+            <remarks>
+            Sample request:
+            DELETE /message/2B40C5C1-C3C6-40B5-A6CB-8924FCE29298
+            </remarks>
+            <param name="userId">Id of the message (guid)</param>
+            <param name="messageId">Id of the user</param>
             <returns>Returns NoContent</returns>
             <responce code="204">Success</responce>
             <responce code="401">If the user is unauthorized</responce>
